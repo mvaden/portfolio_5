@@ -6,9 +6,24 @@ export default class About extends React.Component {
     return (
       <div>
         <Image />
-        <h1>My name is Matthew R. Vaden. I’m a Washington, D.C. based software developer, consultant, perpetual learner, and a shameless nerd.</h1>
-        <p>My current professional interests include software design/development for the web, informational visualization, and mobile application development. But I tend to get distracted a lot and end up working on a number of other things.</p>
-        <p>If you have any questions, comments, or concerns, feel free to be in touch! I’m always checking email and Twitter, and you can also probably find me most other places online as "abovtheinfluinc".</p>
+        <h1>
+          Matthew Vaden
+        </h1>
+        <h3>
+          Web Developer
+        </h3>
+
+        <h1>
+          Matthew Vaden is a Web Developer who is based in Washington D.C. He describes himself as a perpetual learner and shameless nerd.
+        </h1>
+        <p>
+          Professionally, Matthew wears a number of hats. At Leidos (most recently), he acted as a Software Engineer, QA Engineer and Scrum Master.</p> 
+        <p>
+          He also enjoys using his technical talents for community service, and has done so on behalf of organizations like Greater Washington Urban League Young Professionals, Black Millennials for Flint and Black Girls Code. 
+        </p>
+        <p>
+          Matthew is always reachable via email and social media through his username "abovtheinfluinc".
+        </p>
       </div>
     );
   }
